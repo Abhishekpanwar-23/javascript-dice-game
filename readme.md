@@ -53,7 +53,7 @@ Dice-Game/
 ├── styles.css
 └── index.js
 
-
+```
 ## Learning Outcomes
 
 - Understanding random number generation in JavaScript
